@@ -1,3 +1,3 @@
 # ml-intro
-Домашнее задание по третьему модулю 3_linear_regression
-в файле linear_regression.ipynb
+Домашнее задание по пятому модулю 5 - Classification Linear KNN
+находится в файле hw_classification.ipynb
